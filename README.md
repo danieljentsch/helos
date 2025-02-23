@@ -4,7 +4,7 @@ A birth place for organically growing utility software.  I do
 not apply my usual standards here.  It can get arbitrarily chaotic!
 I might also dump code here which I created for use in different projects
 which is not yet mature enough for its own library.
-ἕλος (hèlos) is Ancient Greek and means "swamp" -- you get the idea.
+ἕλος (hélos) is Ancient Greek and means "swamp" -- you get the idea.
 
 # Licensing
 
