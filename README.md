@@ -10,7 +10,7 @@ which is not yet mature enough for its own library.
 
 As a general rule, the software in this repository is available for
 use under the terms of the GNU General Public License (GPL)
-v3.
+v3.  See the LICENSE file for the full Text of the GPL v3.
 
 **However, I, Daniel Jentsch, as the author, explicitly reserve the
 right to relicense any future or current version of any part of this
@@ -25,9 +25,10 @@ under the GPL, as long as this policy remains in place, can still be
 used under the terms of the GPL v3.
 
 Of course, when you fork this repo, you cannot inherit this privilege,
-since you are not the sole author of its content.  So please adopt the
+since you are not the sole author of its content.  So please adapt the
 above text accordingly.
 
 I choose this policy to have the freedom to add software quickly
 without legally or morally committing to publishing all its future
 versions under any specific terms.
+
